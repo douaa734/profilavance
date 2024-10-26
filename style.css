@@ -1,0 +1,64 @@
+
+body {
+    font-size: x-large;
+    background-color: #f4f4f4;
+}
+
+h1, h2, h3 {
+    color: #800000;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    background-color: #f4fefe;
+    padding: 2%;
+    margin: 2%;
+
+
+}
+p{
+    padding:2%;
+}
+
+
+#paragrapheetimage{
+    display: flex;
+    align-items: center;
+
+}
+img {
+    border-radius:5%;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+table, th, td {
+    border: 5px solid #614b3a;
+}
+
+th, td {
+    padding: 2%;
+    text-align: left;
+}
+
+input, textarea{
+    width:99%;
+    padding: 1%;
+}
+button {
+    background-color: #800000;
+    color: white;
+    font-size: large;
+    padding: 1%;
+    width: 100%;
+}
+
+                
